@@ -82,6 +82,11 @@ contoh default dari next-js
 ![Alt text](doc/3.jpg)
 ![Alt text](doc/4.jpg)
 
-
+4. Cobalah buat project react lainnya dengan menggunakan framework Remix dan Gatsby. Ini tidak perlu di push, cukup screenshot dan jelaskan perbedaannya diantara ketiga framework tersebut (termasuk Next.js) di file README nomor 1.
+```
+- Next.js lebih cocok untuk aplikasi web yang memerlukan SSR dan SSG dengan routing yang kuat.
+- Gatsby lebih cocok untuk pembangunan situs statis dengan fokus pada performa tinggi dan pengelolaan konten.
+- Remix lebih fleksibel dan menyediakan alat yang kuat untuk pengembangan aplikasi web dengan SSR, pre-rendering, dan manajemen formulir yang canggih.
+```
 
 
